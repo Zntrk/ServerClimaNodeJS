@@ -26,13 +26,6 @@ const getCiudadLatLon = async(nombre) => {
         lon
     }
 
-    // instance.get()
-    //     .then(resp => {
-    //         console.log(resp.data.Results[0]);
-    //     }).catch(err => {
-    //         console.log("ERROR:", err);
-    //     });
-
 }
 
 module.exports = {
